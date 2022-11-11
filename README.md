@@ -8,9 +8,9 @@ Watch the eyes as they follow your mouse around the screen
 2. drag the html into a browser
 3. enjoy
 
-##Future improvement
+## Future improvement
 add a onclick event that allows you to stop and start the eye movement
 
-##License
+## License
 Free
 
